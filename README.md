@@ -2,4 +2,4 @@
 MASS REVERSE IP
 <br>
 From Domain > IP = Reverse IP<br>
-<img src="Capture.png">
+<img src="Capture.PNG">
